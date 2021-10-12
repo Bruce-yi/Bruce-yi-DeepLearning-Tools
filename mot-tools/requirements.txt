@@ -1,4 +1,4 @@
 pandas==0.24.2
 numpy==1.18.1
-opencv_python==3.4.1.15
+opencv_python==3.4.7.28
 motmetrics==1.2.0
